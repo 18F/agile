@@ -27,10 +27,33 @@ logoalt: 18f logo
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Home
+- text: Introduction
   url: index.html
   internal: true
-
+- text: Principles
+  url: principles.html
+  internal: true
+- text: 1. Define a measurable goal
+  url: 1-goal.html
+  internal: true
+- text: 2. Everyone owns the problem
+  url: 2-everyone.html
+  internal: true
+- text: 3. Small steps with visible impact
+  url: 3-steps.html
+  internal: true
+- text: 4. Validate with your target audience
+  url: 4-validate.html
+  internal: true
+- text: 5. Measure Success
+  url: 5-measure.html
+  internal: true
+- text: 6. Reflect, Adjust, Iterate
+  url: 6-iterate.html
+  internal: true
+- text: Practices
+  url: practices.html
+  internal: true
 #- text: DOCter Repo
 #  url: https://github.com/cfpb/DOCter
 #  internal: false
