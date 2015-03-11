@@ -11,7 +11,7 @@ Examples:
 
 * A user research expert will develop an overall plan and strategy for gathering information from the target audience, but every team member should conduct user interviews and observe usability tests.
 * Everyone participates in design ideation (design studios, idea sketching).
-* Daily standups and regular restrospectives provide an opportunitie for anyone to raise and solve issues.
+* Daily standups and regular restrospectives provide an opportunity for anyone to raise and solve issues.
 * In sprint planning, the whole team reviews stories, breaking down use cases into small user-facing stories.
-* Team members self-assign stories, according to their own skills and availability, always working on highest priority task.
+* Team members self-assign stories, according to their own skills and availability, always working on the highest priority task.
 * A different person who worked on the story closes it.  For user-facing stories, ideally a customer or team member representing the customer.  Merging a pull request is not the same as accepting a story.
