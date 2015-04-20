@@ -5,8 +5,8 @@ markdown: kramdown
 highlighter: pygments
 
 # Title
-name: Agile
-subtitle: Principles & Practices.
+name: Agile Principles & Practices
+subtitle: 
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
