@@ -30,4 +30,4 @@ Stories can (and should) be added to the backlog at any time -- these can be ide
 1. The backlog is sorted again by priority ensuring new, higher priority items float to the top. Items that have now become less important float to the bottom.
 2. The description of items in the backlog are written or (re-written) to ensure that they are clear. It’s also important to state expectations around what completion of that item look like.
 
-It’s useful to schedule a regularly occurring backlog refinement meeting.  A backlog is a long ordered list which is useful for determining what to work on next. However, because of it’s format and detail, it makes it hard to see the big picture.  Refer to your roadmap to help order the backlog into focused iterations.
+It’s useful to schedule a regularly occurring backlog refinement meeting.  A backlog is a long ordered list which is useful for determining what to work on next. However, because of its format and detail, it makes it hard to see the big picture.  Refer to your roadmap to help order the backlog into focused iterations.
