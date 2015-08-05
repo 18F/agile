@@ -23,8 +23,9 @@ As a team, focus on building out a feature at a time, together. It’s important
 Working together as a team on a single feature (or group of features) means that at the end of the effort, there is not only something to share with the client but also something concrete to test with users.
 
 ### Build Small
-Building small is really about identifying things that will have positive, visible impact for the target audience, and building incrementally. To test the usefulness of your solution with real users as early as possible, build a version that’s minimally sufficient to test your assumptions and hypotheses. Eric Ries, author of the Lean Startup, defines an Minimally Viable Product as the smallest, possible thing that you can learn from -- not the smallest thing that fully solves the user’s problem.  As you learn from people using the service (or part of it), you can improve the solution and iterate in small chunks towards a better looking, more detailed solution. Keep testing your changes.
-Maintain the backlog
+Building small is really about identifying things that will have positive, visible impact for the target audience, and building incrementally. To test the usefulness of your solution with real users as early as possible, build a version that’s minimally sufficient to test your assumptions and hypotheses. Eric Ries, author of the Lean Startup, defines a Minimally Viable Product as the smallest possible thing that you can learn from -- not the smallest thing that fully solves the user’s problem.  As you learn from people using the service (or part of it), you can improve the solution and iterate in small chunks towards a better looking, more detailed solution. Keep testing your changes.
+
+### Maintain the backlog
 Stories can (and should) be added to the backlog at any time -- these can be ideas for new features, bugs, or unexpected behavior. The backlog should be groomed regularly during which:
 
 1. The backlog is sorted again by priority ensuring new, higher priority items float to the top. Items that have now become less important float to the bottom.
