@@ -6,7 +6,7 @@ highlighter: pygments
 
 # Title
 name: Agile Principles & Practices
-subtitle: 
+subtitle:
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
@@ -45,10 +45,10 @@ navigation:
 - text: 4. Validate with your target audience
   url: 4-validate.html
   internal: true
-- text: 5. Measure Success
+- text: 5. Measure success
   url: 5-measure.html
   internal: true
-- text: 6. Reflect, Adjust, Iterate
+- text: 6. Reflect, adjust, iterate
   url: 6-iterate.html
   internal: true
 - text: Practices
