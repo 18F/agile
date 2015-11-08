@@ -8,7 +8,7 @@ A goal for your entire engagement should be stated succinctly with a measurable 
 
 >President Kennedy. May 25, 1961.
 
-The very act of coming up with a goal statement forces you to think about the fundamental problem you are trying to solve the measurement of success for a solution, and a feasible time frame.  
+The very act of coming up with a goal statement forces you to think about the fundamental problem you are trying to solve, the measurement of success for a solution, and a feasible time frame.  
 
 For software projects, a goal needs to include the target audience and a clear outcome.  We aren’t building software to build software -- we want to have a clear, positive impact on real humans.
 
