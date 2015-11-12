@@ -1,5 +1,4 @@
 ---
-layout: page
 title:  "Everyone owns the problem"
 ---
 
