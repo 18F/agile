@@ -58,6 +58,11 @@ navigation:
 #  url: https://github.com/cfpb/DOCter
 #  internal: false
 
+# Back link to 18F guides
+back_link:
+  url: "https://pages.18f.gov/guides/"
+  text: Read more 18F Guides
+
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
@@ -67,3 +72,10 @@ repos:
 
 # Style Variables
 brand_color: "#1188ff"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "guides_style_18f_default"

@@ -1,6 +1,5 @@
 ---
-layout: page
-title: "Everyone owns the problem"
+title:  "Everyone owns the problem"
 ---
 
 Define the actual problem you are solving with the product. Everyone on the team needs to understand who will use the product and why. Any time a developer writes a line of code, they should be aware of how this change will impact the end user and how it relates to the other features of the application in meeting the overall goal of the project. Every member of the team, periodically throughout the product development cycle, should have the opportunity to hear from people in your target audience and understand first-hand about the problems the new software or service is intended to solve.

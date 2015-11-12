@@ -1,6 +1,5 @@
 ---
-layout: page
-title: "Principles"
+title:  "Principles"
 ---
 There are many different specific project development methodologies within agile. They center around a core set of principles:
 
