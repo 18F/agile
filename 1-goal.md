@@ -1,5 +1,4 @@
 ---
-layout: page
 title:  "Define a measurable goal"
 ---
 A goal for your entire engagement should be stated succinctly with a measurable and clear metric for success and an indicative time frame. Here is the classic example of a well-stated goal:

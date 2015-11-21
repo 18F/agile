@@ -1,5 +1,4 @@
 ---
-layout: page
 title:  "Validate with your target audience"
 ---
 Determine the real user of your product early in the process and work to identify their needs. You might do quality assurance by getting a random person to test your site, but their opinion about whether the site is usable or useful, only matters if they are in your target audience.  For example, if you are building an app for veterans, it doesn’t matter that your brother thinks all the acronyms are hard to understand, if those are terms everyone learns in bootcamp.
