@@ -8,13 +8,6 @@ highlighter: pygments
 name: Agile Principles & Practices
 subtitle:
 
-# When using this template with a project page set the baseurl to '/project-name'
-# For user/organization pages set this to an empty string
-# When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
-# See http://jekyllrb.com/docs/github-pages/ for more info
-#baseurl: ''
-baseurl: '/agile'
-
 # Author/Organization info to be displayed in the templates
 author:
   name: 18F
@@ -58,6 +51,11 @@ navigation:
 #  url: https://github.com/cfpb/DOCter
 #  internal: false
 
+# Back link to 18F guides
+back_link:
+  url: "https://pages.18f.gov/guides/"
+  text: Read more 18F Guides
+
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
@@ -67,3 +65,10 @@ repos:
 
 # Style Variables
 brand_color: "#1188ff"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "guides_style_18f_default"

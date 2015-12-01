@@ -1,6 +1,5 @@
 ---
-layout: page
-title: "Reflect, adjust, iterate"
+title: "6. Reflect, adjust, iterate"
 ---
 Iteration is a fundamental concept behind agile, and it takes two major forms.
 

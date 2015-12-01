@@ -1,6 +1,5 @@
 ---
-layout: page
-title: "Small steps with visible impact"
+title:  "3. Small steps with visible impact"
 ---
 Keeping a *prioritized backlog* of planned work is how we effectively manage an iterative development cycle such that we move toward our goal incrementally. Simply delivering more frequently and organizing our work into “sprints” is not sufficient. We need to track our forward progress at regular intervals, reflect on what we’ve learned, and adjust our plans to keep moving toward our goal. That forward motion and what we learn needs to be clearly visible to the team and to stakeholders on a regular basis. The best and easiest way to make it visible is to *deliver working software* at the end of each sprint, and measure the impact on real users through analytics and qualitative research.
 
