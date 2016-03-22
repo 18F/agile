@@ -11,6 +11,8 @@ The very act of coming up with a goal statement forces you to think about the fu
 
 For software projects, a goal needs to include the target audience and a clear outcome.  We aren’t building software to build software — we want to have a clear, positive impact on real humans.
 
+A [Lean Product Design](https://pages.18f.gov/lean-product-design) approach is an effective way to define your goal, usually stated in terms of an _hypothesis_ that is validated in small experiments through an agile process.
+
 ### Focus on your target audience
 In order to create a successful service, it's essential to define your target audience as narrowly as possible. For example: anyone can visit your website, but your focus is people who need food stamps. Try to create a description of your audience in terms of who they are, rather than referring to your service. For example: low-income Americans primarily accessing digital services through community centers or their smart phones.
 
