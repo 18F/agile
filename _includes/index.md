@@ -1,14 +1,10 @@
 _By definition, this agile guide is a work in progress. We welcome community participation._
 
-Historically, a majority of software development products have failed to actually be useful to real people or been over budget with missed deadlines.
+Prior to 2001, a majority of software development products failed to actually be useful to real people or were built over budget with missed deadlines. Early-stage technology coupled with an intuitive but ineffective development approach combined to make the actual delivery of successful, working software extremely difficult. During the 1980s in particular, the growing demands and expectations of the marketplace swamped the ability of the software development industry to build software as it was needed.
 
-Software development was often conducted by defining a set of requirements up front, and then handing those exhaustive requirements to an implementation team. The team then developed the product to specifications in the requirements document. The product was only put in front of actual users of the software at the very end of the development cycle.
+In addition, the widely-held belief that development teams could predict customer needs far in advance--sometimes many years in advance--turned out to be incorrect. So even when working software was delivered, it often did not meet the expectations of customers. 
 
-Before we start building software, there are a wide variety of research techniques we can use to understand the problem we're trying to solve. By observing people struggling without the benefit of our new solution, we can gain a deeper understanding of the problem and our audience.
-
-Even if we could perfectly understand what is needed before we build it, change happens. We don’t need to wait until the software is complete before allowing people from our target audience to try the software. Getting software in front of people allows us to learn more about how they work and adjust the design of the software to meet their needs. This allows us to correct an incomplete understanding, and also to notice when the landscape changes. In today’s world, our software often runs on several platforms and needs to integrate with other software as well.
-
-The old linear method of software development deals with change poorly. A key component of agile is iterative development with quick validation, emphasizing testing early and often with real users to ensure that the product actually works for real people. This cycle of learning helps manage change and leads to more successful outcomes.
+Analysis and experimentation conducted during the 1990’s suggested that the <a href="https://en.wikipedia.org/wiki/Winston_W._Royce" target="_blank">so-called waterfall development process</a> was largely responsible for this climate of failure. After ten years of work, the <a href="http://agilemanifesto.org/" target="_blank">Agile Manifesto</a> was published in 2001. The Manifesto ushered in the age of Agile software development by outlining a framework for a different approach to the problem. The (then) new Agile approach featured outreach to potential users of software, decomposition of large software projects into much smaller projects that were much less difficult and risky, and empowerment of development teams to respond to evolving requirements.
 
 ## Open Source and Contributing
 
