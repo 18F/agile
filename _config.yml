@@ -1,6 +1,6 @@
 # Base configuration
 permalink: /:title
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "guild", "CONTRIBUTING.md"]
 markdown: kramdown
 highlighter: pygments
 
@@ -41,13 +41,10 @@ navigation:
 - text: Agile lexicon
   url: agile-lexicon.html
   internal: true
-#- text: DOCter Repo
-#  url: https://github.com/cfpb/DOCter
-#  internal: false
 
 # Back link to 18F guides
 back_link:
-  url: "https://pages.18f.gov/guides/"
+  url: "https://guides.18f.gov/"
   text: Read more 18F Guides
 
 # Repo list
