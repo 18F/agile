@@ -1,6 +1,6 @@
 ---
 title:  "Agile fundamentals"
-permalink: /agile-fundamentals
+permalink: /agile-fundamentals/
 layout: page
 sidenav: sidenav
 ---

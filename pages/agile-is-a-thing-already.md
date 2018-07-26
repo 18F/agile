@@ -1,6 +1,6 @@
 ---
 title:  Agile is a thing already
-permalink: /agile-is-a-thing-already
+permalink: /agile-is-a-thing-already/
 layout: page
 sidenav: sidenav
 ---

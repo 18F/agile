@@ -1,6 +1,6 @@
 ---
 title:  Agile is something you are, not something you do
-permalink: /agile-is-something-you-are
+permalink: /agile-is-something-you-are/
 layout: page
 sidenav: sidenav
 ---
