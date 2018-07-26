@@ -1,3 +1,25 @@
+# Running the agile guide locally:
+Be sure to have Jekyll and Kramdown installed.
+
+```
+gem install jekyll
+gem install kramdown
+```
+
+Fork and clone the repo:
+
+```
+git clone git@github.com:18F/agile.git
+cd agile
+```
+Run Jekyll:
+
+```
+jekyll serve --baseurl ''
+```
+
+# Contributing
+
 If you'd like to contribute to this project, please use the fork-and-pull
 model:
 
