@@ -1,9 +1,4 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'jekyll'
-gem 'rouge'
-gem 'go_script'
-
-group :jekyll_plugins do
-  gem 'guides_style_18f'
-end
+gem 'uswds-jekyll', :git => 'https://github.com/18F/uswds-jekyll.git'
+gem 'jekyll_pages_api_search'
