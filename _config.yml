@@ -4,8 +4,10 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 markdown: kramdown
 highlighter: pygments
 
+theme: uswds-jekyll
+
 # Title
-name: Agile Principles and 18F Practices
+title: Agile Principles and 18F Practices
 subtitle:
 
 # Author/Organization info to be displayed in the templates
@@ -13,56 +15,9 @@ author:
   name: 18F
   url: https://18f.gsa.gov
 
-# Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl: /assets/img/18F-Logo-M.png
-logoalt: 18f logo
-
-# Navigation
-# List links that should appear in the site sidebar here
-navigation:
-- text: Introduction
-  url: index.html
-  internal: true
-- text: Modern software product development
-  url: modern-software-product-development.html
-  internal: true
-- text: Agile is a thing already
-  url: agile-is-a-thing-already.html
-  internal: true
-- text: Agile is something you are&comma; not something you do
-  url: agile-is-something-you-are-not-something-you-do.html
-  internal: true
-- text: 18f Agile based project approach
-  url: 18f-agile-based-project-approach.html
-  internal: true
-- text: Agile fundamentals
-  url: agile-fundamentals.html
-  internal: true
-- text: Agile lexicon
-  url: agile-lexicon.html
-  internal: true
-#- text: DOCter Repo
-#  url: https://github.com/cfpb/DOCter
-#  internal: false
-
-# Back link to 18F guides
-back_link:
-  url: "https://pages.18f.gov/guides/"
-  text: Read more 18F Guides
-
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
 - name: agile
   description: Main repository
   url: https://github.com/18F/agile
-
-# Style Variables
-brand_color: "#1188ff"
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "guides_style_18f_default"
