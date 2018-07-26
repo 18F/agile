@@ -1,5 +1,4 @@
 # Base configuration
-permalink: /:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "guild", "CONTRIBUTING.md"]
 markdown: kramdown
 highlighter: pygments
