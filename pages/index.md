@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 
 permalink: /
 layout: page
 sidenav: sidenav
