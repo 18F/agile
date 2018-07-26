@@ -1,5 +1,8 @@
 ---
 title:  "Agile fundamentals"
+permalink: /agile-fundamentals
+layout: page
+sidenav: sidenav
 ---
 
 - **Standups:** the team meets daily for short meetings which are typically held standing up, face-to-face to encourage brief sessions. This is not a status meeting. This meeting is for people to ask quick questions that will allow them to get information or remove blockers. Long answers and discussions should have follow-up in smaller groups after the standup meeting.
