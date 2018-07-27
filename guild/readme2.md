@@ -8,7 +8,7 @@ The Technology Transformation Services (TTS) Agile guild is a community that fos
 An open and voluntary group like our guild can help foster a committee of professionals in a specific subject area. Benefits include:
  - Improving overall productivity through sharing of knowledge 
  - Spreading Agile practices throughout our organization
- - Briningg together different parts of organization with different methodologies, varying experience, and varying understanding of methodologies
+ - Bringing together different parts of organization with different methodologies, varying experience, and varying understanding of methodologies
  - Having a single, specific resource to turn to for support in a given area
  - Giving more seasoned team members opportunities to share their expertise with less experienced team members
  - Giving less experienced team members opportunities to become better in their roles in an environments away from their chapters and engagements 
