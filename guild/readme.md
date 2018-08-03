@@ -28,7 +28,7 @@ We make the guild a place for learning by hosting discussion, debates, inviting 
 
 ### 2. Memorize learnings into tools and artifacts as we go along
 
-As much as possible, we will document our learnings as we go along so we can share them with others. This will include expanding the [Agile Guide](https://agile.18f.gov/), summaries of our guild meeings, training materials, and blog posts.
+As much as possible, we will document our learnings as we go along so we can share them with others. This will include expanding the [Agile Guide](https://agile.18f.gov/), summaries of our guild meetings, training materials, and blog posts.
 
 ## History and background
 
