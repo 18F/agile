@@ -1,11 +1,11 @@
-# Agile Guild
+# Agile guild
 
-The Technology Transformation Services (TTS) Agile guild is a community that fosters agile methodologies within government so that our work will deliver more value to its users.
+The Technology Transformation Services (TTS) agile guild is a community that fosters agile methodologies within government so that our work will deliver more value to its users.
 
 
 ## Purpose
 
-The Agile guild, an open and voluntary group, helps foster a committee of professionals in a specific subject area. Benefits include:
+The agile guild, an open and voluntary group, helps foster a committee of professionals in a specific subject area. Benefits include:
  - Improving overall productivity through sharing of knowledge 
  - Spreading agile practices throughout our organization
  - Bringing together different parts of organization with different methodologies, varying experience, and varying understanding of methodologies
@@ -28,7 +28,7 @@ We make the guild a place for learning by hosting discussion, debates, inviting 
 
 ### 2. Memorize learnings into tools and artifacts as we go along
 
-As much as possible, we will document our learnings as we go along so we can share them with others. This will include expanding the [Agile Guide](https://agile.18f.gov/), summaries of our guild meetings, training materials, and blog posts.
+As much as possible, we will document our learnings as we go along so we can share them with others. This will include expanding the [agile guide](https://agile.18f.gov/), summaries of our guild meetings, training materials, and blog posts.
 
 ## History and background
 
