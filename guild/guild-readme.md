@@ -5,9 +5,9 @@ The Technology Transformation Services (TTS) Agile guild is a community that fos
 
 ## Purpose
 
-An open and voluntary group like our guild can help foster a committee of professionals in a specific subject area. Benefits include:
+The Agile guild, an open and voluntary group, helps foster a committee of professionals in a specific subject area. Benefits include:
  - Improving overall productivity through sharing of knowledge 
- - Spreading Agile practices throughout our organization
+ - Spreading agile practices throughout our organization
  - Bringing together different parts of organization with different methodologies, varying experience, and varying understanding of methodologies
  - Having a single, specific resource to turn to for support in a given area
  - Giving more seasoned team members opportunities to share their expertise with less experienced team members
@@ -19,7 +19,7 @@ Thanks to the writers of [these](https://medium.com/webcom-engineering-and-produ
 
 ## Priorities
 
-From July 2018, we determined our focus areas for the next several quarters will be making the guild a place for learning as well as, as much as possible, creating tools and artifacts to memorialize what we learn as we go along.
+From July 2018, we determined our focus areas for the next several quarters will be making the guild a place for learning as well as creating tools and artifacts to memorialize what we learn as we go along.
 
 ### 1. Make guild a place for learning
 
@@ -36,7 +36,7 @@ Originally focused on work at 18F, guilds began in 2015 as a forum where team me
 
 Our work is informed by ongoing collaboration with TTS project teams as well as individuals elsewhere in and outside of government with experience in the agile disciplines of XP, Scrum, Lean Startup, Lean UX, as well as the relevant design disciplines of Human Centered Design and Design Thinking.
 
-We believe that Agile implies Human Centered Design and works best when cross-discliplinary teams work together throughout the development cycle.
+We believe that agile implies Human Centered Design and works best when cross-discliplinary teams work together throughout the development cycle.
 
 
 ## Reference
