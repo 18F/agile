@@ -16,5 +16,4 @@ When we build, we aim to release early and often to real users in real life situ
 
 Since our work is centered around user research and user feedback, it’s important to develop participant recruiting strategies, and a research and feedback cadence that will work within the constraints of your agile process, and to ensure that the team is staffed appropriately.
 
-
-<img src="assets/img/agile-ucd.png" style="margin: auto;" width="770" alt="agile and user centered design diagram">
+![agile and user centered design diagram](assets/img/agile-ucd.png)
