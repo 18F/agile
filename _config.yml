@@ -14,6 +14,11 @@ author:
   name: 18F
   url: https://18f.gsa.gov
 
+github:
+  organization: 18F
+  repository: agile
+  default_branch: 18f-pages
+
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
