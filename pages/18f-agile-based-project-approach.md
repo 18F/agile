@@ -6,7 +6,7 @@ sidenav: sidenav
 ---
 The Agile Manifesto is realized at 18F in the combined practices of iterative software development, product management, user-centered design, and DevOps.
 
-We start with a product vision and strategy, informed by users and the overall mission or 18F or one of our partner agencies. We do this so that the work always stays connected to an overarching goal that everyone understands and is excited about.
+We start with a product vision and strategy, informed by users and the overall mission of 18F or one of our partner agencies. We do this so that the work always stays connected to an overarching goal that everyone understands and is excited about.
 
 We also work to ensure that the infrastructure and process is there to enable continuous delivery of software to real users (DevOps), and that a clear agile delivery process is set up. Teams are free to tailor their agile process to suit their own situations. Many of them employ the SAFe methodology, while other teams use more traditional Scrum or Kanban methods.
 
