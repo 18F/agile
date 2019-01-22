@@ -1,6 +1,6 @@
-# Agile guild
+# TTS Agile Guild
 
-The Technology Transformation Services (TTS) agile guild is a community that fosters agile methodologies within government so that our work will deliver more value to its users.
+The Technology Transformation Services (TTS) Agile Guild is a community that fosters agile methodologies within government so that our work will deliver more value to its users.
 
 
 ## Purpose
