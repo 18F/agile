@@ -1,5 +1,5 @@
-# Agile guild 
-The Technology Transformation Service (TTS) agile guild is a community that fosters agile methodologies within government. For more on the guild, please see our [documentation](https://github.com/18F/agile/blob/18f-pages/guild/guild-readme.md).
+# TTS Agile Guild 
+The Technology Transformation Service (TTS) Agile Guild is a community that fosters agile methodologies within government. For more on the guild, please see our [documentation](https://github.com/18F/agile/blob/18f-pages/guild/guild-readme.md).
 
 The guild meets every other Fridays from 2:00-2:30 ET.  For a link to the meeting, please consult the [TTS Guilds Meetings and Office Hours calendar](https://calendar.google.com/calendar/embed?src=gsa.gov_o1aqcv28k1f0nmca5bkch8los4%40group.calendar.google.com&ctz=America%2FChicago)
 
