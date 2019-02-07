@@ -27,7 +27,18 @@ sidenav:
   - text: Agile lexicon
     href: /agile-lexicon
 
+community_sidenav:
+  - text: Agile guild
+    href: "/community/#agile-guild"
+  - text: Agile office hours
+    href: "/community/#office-hours"
+  - text: Resources
+    href: "/community/#resources"
+
 secondary:
+  - text: Community
+    href: /community
+    external: true
   - text: 18F guides
     href: https://pages.18f.gov/guides/
     external: true
