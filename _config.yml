@@ -5,6 +5,10 @@ highlighter: pygments
 
 theme: uswds-jekyll
 
+url: "https://agile.18f.gov"
+plugins:
+  - jekyll-sitemap
+
 # Title
 title: Agile Principles and 18F Practices
 subtitle:
