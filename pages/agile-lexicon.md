@@ -42,7 +42,7 @@ The goal of this Lexicon is to provide 18F and our partners a  common language f
 Test coverage - the portion of the code that is actually exercised when a certain set of tests are run. Usually expressed as a percentage. Often specified as a quality standard, as in, “you must have 90% code coverage to consider your tests adequate.”
 - **Unit tests** - Automated tests that concentrate on verifying that the code works as written, and which act as safety flags in high-churn agile development environments with constant check-ins, changes, and multiple developers in the same code. They are best run automatically as part of every build.
 - **Integration tests** - Also called Feature Tests, Acceptance Tests, and Regression Tests, these are tests that validate a complete, integrated software product against its business goals. They test the user-visible behavior of the software.
-Continuous Integration - Running automated tests on every code submission, within an integrated codebase.
+- **Continuous Integration** - Running automated tests on every code submission, within an integrated codebase.
 - **Continuous Deployment** - Deploying software automatically _to production_ if automated tests pass.
 - **User research:** a range of techniques are used to understand the target audience and the problems that they have. Contextual inquiry, involving direct observation, is favored over interviews.
 Usability testing: Observation of people attempting to use a product, prototype or mockup.  See Design Method: Usability Testing
