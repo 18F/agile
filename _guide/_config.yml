@@ -1,0 +1,26 @@
+# Configuration in this file overrides those in _config.yml.
+# Required keys:
+# - title
+# - description
+# - url
+# - github_info
+# - search_site_handle
+# Optional keys
+# - org
+
+title: Agile Principles and 18F Practices
+description: Agile Principles and Practice, documented by the 18F Agile Guild
+url: "https://agile.18f.gov"
+
+# GitHub information
+github_info:
+  organization: 18F
+  repository: agile
+  default_branch: 18f-pages
+
+# Unique identifier across GSA for this website; the repository name is
+# usually a good site handle.
+search_site_handle: agile.18f.gov
+
+# Either 18F, Solutions, CoE, PIF, or unset to default to just TTS
+org: 18F

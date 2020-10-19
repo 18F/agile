@@ -1,0 +1,27 @@
+primary:
+  - text: About this guide
+    href: /
+  - text: Our approach
+    href: /modern-software-product-development/
+
+about:
+  - text: About this guide
+    href: /
+  - text: License
+    href: /license/
+  - text: TTS Agile Guild
+    href: /guild/
+
+sidenav:
+  - text: Modern Software Product Development
+    href: /modern-software-product-development/
+  - text: Agile is a thing already
+    href: /agile-is-a-thing-already/
+  - text: Agile is something you are, not something you do
+    href: /agile-is-something-you-are/
+  - text: 18F Agile based project approach
+    href: /18f-agile-approach/
+  - text: Agile fundamentals
+    href: /agile-fundamentals/
+  - text: Agile lexicon
+    href: /agile-lexicon/
