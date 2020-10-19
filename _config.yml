@@ -1,0 +1,37 @@
+theme: uswds-jekyll
+exclude:
+  - CONTRIBUTING.md
+  - Dockerfile
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - override.yml
+
+permalink: pretty
+
+sass:
+  style: :compressed
+
+google_analytics_ua: UA-48605964-19
+dap_agency: GSA
+dap_subagency: TTS
+
+collections_dir: _guide
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+
+scripts:
+  - /assets/uswds/js/uswds.min.js
+  - /assets/js/private-eye.js
+  - /assets/js/application.js
