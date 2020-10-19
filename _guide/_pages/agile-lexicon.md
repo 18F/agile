@@ -1,13 +1,26 @@
 ---
 title:  Agile lexicon
 sidenav: sidenav
+subnav:
+  - text: High Level Concepts
+    href: "#high-level-concepts"
+  - text: Agile Disciplines
+    href: "#agile-disciplines"
+  - text: Roles
+    href: "#roles"
+  - text: How we talk about the work
+    href: "#how-we-talk-about-the-work"
+  - text: Concepts
+    href: "#concepts"
+  - text: Process words, how we work
+    href: "#process-words-how-we-work"
 ---
 The goal of this Lexicon is to provide 18F and our partners a  common language for discussion of Agile processes. The definitions are as simple, flexible, and inclusive as we could make them.
 
 ## High Level Concepts
 - **Agile** - pertaining to the Agile Manifesto and/or Agile Principles (http://agilemanifesto.org). Agile is a set of values and principles that describe a way of working that promotes continuous learning and user-focused value delivery.
 
-## Agile Disciplines:
+## Agile Disciplines
 - **Lean UX** - a set of design principles which includes early customer validation, collaborative design, defining key success metrics (for more info see: Lean UX manifesto).
 - **Scrum** - a framework for Agile product development centered around self-organizing team, customer focus, and responding to change.
 - **XP (Extreme Programming)** - an agile software development approach that emphasizes business results first, using pair programming and test-driven development, delivering value continuously
@@ -22,7 +35,7 @@ The goal of this Lexicon is to provide 18F and our partners a  common language f
 - **Stakeholder** - an interested party whose buy-in you want (or need) but is not the PO
 
 
-## How we talk about the work:
+## How we talk about the work
 - **Prototype** - A functional representation of a feature or group of features not meant to be sold to customers, but rather to get feedback from potential users or customers.
 - **Minimum Viable Product (MVP)** - The smallest usable thing you need to start validating the actual idea of the business or product. The very first increment of the build/measure/learn cycle (Zappos example in The Lean Startup.) It’s there to help demonstrate the market exists for a particular idea. The term “MVP” means something different to virtually everyone, so be sure to get clarity from the person or persons using the term in conversations.
 
@@ -35,7 +48,7 @@ The goal of this Lexicon is to provide 18F and our partners a  common language f
 - **Definition of done** -  A working agreement among the team detailing the standard for achieving a “Done” Product Backlog Item (i.e, user story). This applies to all user stories and includes meeting acceptance criteria.
 - **Acceptance criteria** - A set of conditions detailing the functional goals of the user story. This is a user story-specific description of when that story is done. The acceptance criteria could be used to demo the user story or to write an automated test.
 
-## Concepts:
+## Concepts
 - **Non-Functional Requirements (NFRs)**  - desired characteristics of a product that do not deliver direct user value, such as load handling, performance, browser compatibility, or responsive design.
 Test coverage - the portion of the code that is actually exercised when a certain set of tests are run. Usually expressed as a percentage. Often specified as a quality standard, as in, “you must have 90% code coverage to consider your tests adequate.”
 - **Unit tests** - Automated tests that concentrate on verifying that the code works as written, and which act as safety flags in high-churn agile development environments with constant check-ins, changes, and multiple developers in the same code. They are best run automatically as part of every build.
@@ -46,7 +59,7 @@ Continuous Integration - Running automated tests on every code submission, withi
 Usability testing: Observation of people attempting to use a product, prototype or mockup.  See Design Method: Usability Testing
 - **Prototype:** A term that means something different to everyone. You want to come to common understanding about this word early on in any project; but it should be noted here that prototypes should not be referred to as a deliverable and are best described as a supporting activity that promotes learning.  
 
-## Process words, how we work:
+## Process words, how we work
 - **Sprint** - the unit of iteration in scrum: a short, fixed interval in which an agile team commits to and delivers a piece of customer value from the backlog.
 Sprint Backlog Item - A more granular item than one one would find in a product backlog. It could be a task, chore, bug, or small or finely sliced user story. These items are usually what you find in a trello or waffle board.
 - **Product Backlog** - A prioritized list of user value to be produced.

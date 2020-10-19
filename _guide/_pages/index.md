@@ -1,7 +1,10 @@
 ---
-title: 
+title: About this guide
 permalink: /
-sidenav: sidenav
+sidenav: about
+subnav:
+  - text: Open Source and Contributing
+    href: "#open-source-and-contributing"
 ---
 
 _By definition, this agile guide is a work in progress. We welcome community participation._
@@ -15,13 +18,3 @@ Analysis and experimentation conducted during the 1990’s suggested that the <a
 ## Open Source and Contributing
 
 This project is [open source](https://github.com/18F/agile), and we welcome contributions from the public.
-
-### License
-
-This project is in the public domain within the United States, and copyright
-and related rights in the work worldwide are waived through CC0 1.0 Universal
-public domain dedication.
-
-All contributions to any repositories of this project will be released under
-the CC0 dedication. By submitting a pull request, you are agreeing to comply
-with this waiver of copyright interest.

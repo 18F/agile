@@ -1,4 +1,16 @@
-# TTS Agile Guild
+---
+title: TTS Agile Guild
+sidenav: about
+subnav:
+  - text: Purpose
+    href: "#purpose"
+  - text: Priorities
+    href: "#priorities"
+  - text: History and background
+    href: "#history-and-background"
+  - text: Reference
+    href: "#reference"
+---
 
 The Technology Transformation Services (TTS) Agile Guild is a community that fosters agile methodologies within government so that our work will deliver more value to its users.
 
