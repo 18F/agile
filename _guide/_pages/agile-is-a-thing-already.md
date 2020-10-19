@@ -1,7 +1,5 @@
 ---
 title:  Agile is a thing already
-permalink: /agile-is-a-thing-already/
-layout: page
 sidenav: sidenav
 ---
 Agile, as we know it, means any development framework or methodology that adheres to all or most of the values and principles listed in the Agile Manifesto, which was published in 2001. <a href="http://agilemanifesto.org/" target="_blank">The Manifesto</a> is the end result of several streams of exploration and experimentation that continued throughout the 90s (1990s, not 1890s). These streams resulted in the invention of eXtreme Programming, Scrum, Feature Driven Development, Crystal Clear, and other development paradigms. The genius of the Manifesto is that it captured in a very high level way the common philosophical foundations of these new approaches and dubbed those values and principles Agile.

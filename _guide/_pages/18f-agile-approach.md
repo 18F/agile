@@ -1,7 +1,5 @@
 ---
 title:  18F Agile based project approach
-permalink: /18f-agile-approach/
-layout: page
 sidenav: sidenav
 ---
 The Agile Manifesto is realized at 18F in the combined practices of iterative software development, product management, user-centered design, and DevOps.

@@ -1,7 +1,5 @@
 ---
 title:  "Agile fundamentals"
-permalink: /agile-fundamentals/
-layout: page
 sidenav: sidenav
 ---
 

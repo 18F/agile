@@ -1,7 +1,5 @@
 ---
 title:  Agile lexicon
-permalink: /agile-lexicon/
-layout: page
 sidenav: sidenav
 ---
 The goal of this Lexicon is to provide 18F and our partners a  common language for discussion of Agile processes. The definitions are as simple, flexible, and inclusive as we could make them.

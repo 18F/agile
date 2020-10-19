@@ -1,7 +1,5 @@
 ---
 title:  "Modern Software Product Development"
-permalink: /modern-software-product-development/
-layout: page
 sidenav: sidenav
 ---
 
