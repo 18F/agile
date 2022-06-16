@@ -43,3 +43,9 @@ repos:
 dap_agency: GSA
 dap_subagency: TTS
 google_analytics_ua: UA-48605964-19
+
+# Add search site handle to enable search
+search_site_handle: agile.18f.gov
+
+scripts:
+  - assets/uswds/js/uswds.min.js
