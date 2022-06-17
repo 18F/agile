@@ -34,3 +34,8 @@ sidenav:
     href: /agile-fundamentals/
   - text: Agile lexicon
     href: /agile-lexicon/
+
+secondary:
+  - text: Learn more about 18F
+    href: https://18f.gsa.gov
+    external: true
