@@ -10,6 +10,14 @@
 #
 # primary:
 #   links: primary
+# _data/navigation.yml
+primary:
+  - text: Home
+    href: /
+  - text: More 18F guides
+    href: https://18f.gsa.gov/guides/
+    external: true
+
 #
 sidenav:
   - text: Introduction
@@ -26,8 +34,3 @@ sidenav:
     href: /agile-fundamentals/
   - text: Agile lexicon
     href: /agile-lexicon/
-
-secondary:
-  - text: 18F guides
-    href: https://pages.18f.gov/guides/
-    external: true
