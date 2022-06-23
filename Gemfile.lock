@@ -46,13 +46,17 @@ GEM
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
+    libv8-node (16.10.0.0)
+    libv8-node (16.10.0.0-x86_64-darwin)
     libv8-node (16.10.0.0-x86_64-darwin-19)
+    libv8-node (16.10.0.0-x86_64-linux)
+    libv8-node (16.10.0.0-x86_64-linux-musl)
     liquid (4.0.3)
     listen (3.7.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-		mini_racer (0.6.2)
+    mini_racer (0.6.2)
       libv8-node (~> 16.10.0.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -75,7 +79,10 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
+  ruby
+  x86_64-darwin-18
   x86_64-darwin-19
+  x86_64-linux
 
 DEPENDENCIES
   jekyll (~> 4.1.1)
