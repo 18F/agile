@@ -11,8 +11,14 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
+    eventmachine (1.2.7-java)
+    eventmachine (1.2.7-x64-mingw32)
+    eventmachine (1.2.7-x86-mingw32)
     execjs (2.8.1)
-    ffi (1.15.3)
+    ffi (1.15.5)
+    ffi (1.15.5-java)
+    ffi (1.15.5-x64-mingw32)
+    ffi (1.15.5-x86-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (1.8.10)
@@ -66,9 +72,15 @@ GEM
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
-    terminal-table (2.0.0)
+    sassc (2.4.0-x64-mingw32)
+      ffi (~> 1.9)
+    terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    unicode-display_width (1.7.0)
+    tzinfo (2.0.4)
+      concurrent-ruby (~> 1.0)
+    tzinfo-data (1.2022.1)
+      tzinfo (>= 1.0.0)
+    unicode-display_width (1.8.0)
     uswds-jekyll (5.4.0)
       jekyll (>= 4.0, < 5)
       jekyll-autoprefixer
@@ -76,7 +88,12 @@ GEM
     wcag_color_contrast (0.0.1)
 
 PLATFORMS
+  java
   ruby
+  x64-mingw32
+  x86-mingw32
+  x86-mswin32
+  x86_64-darwin-19
 
 DEPENDENCIES
   jekyll (>= 4.2.0)
