@@ -1,17 +1,26 @@
-# Base configuration
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "guild", "CONTRIBUTING.md"]
-markdown: kramdown
-highlighter: pygments
-
-theme: uswds-jekyll
-
+title: Agile Principles and 18F Practices
+description: >-
+  This is the 18F Agile Principles Guide.
 url: "https://agile.18f.gov"
+
+# Base configuration
+exclude: 
+  - .rvmrc
+  - .rbenv-version
+  - README.md
+  - Rakefile
+  - changelog.md
+  - guild
+  - CONTRIBUTING.md
+
+# build settings
+theme: uswds-jekyll
+markdown: kramdown
+highlighter: rouge
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
 
-# Title
-title: Agile Principles and 18F Practices
-subtitle:
 
 # Author/Organization info to be displayed in the templates
 author:
@@ -30,6 +39,13 @@ repos:
   description: Main repository
   url: https://github.com/18F/agile
 
+# DAP and google analytics data
 dap_agency: GSA
-
+dap_subagency: TTS
 google_analytics_ua: UA-48605964-19
+
+# Add search site handle to enable search
+search_site_handle: agile.18f.gov
+
+scripts:
+  - assets/uswds/js/uswds.min.js
