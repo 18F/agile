@@ -15,3 +15,7 @@ This should be considered a work in progress.  We welcome pull requests and disc
 The project is in the public domain, and all contributions to it will be released as such. For more details see [TERMS](TERMS.md)
 
 If you contribute the open source work of others, please mark it clearly in your pull request.
+
+## cloud.gov Pages
+
+This site is now on cloud.gov Pages. See settings > Webhooks for details.
