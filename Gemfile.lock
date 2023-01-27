@@ -86,7 +86,7 @@ GEM
       jekyll (>= 4.0, < 5)
       jekyll-autoprefixer
       mini_racer
-    webrick (1.7.0)
+    webrick (1.8.0)
 
 PLATFORMS
   java
@@ -102,7 +102,7 @@ DEPENDENCIES
   jekyll-sitemap (>= 1.4.0)
   tzinfo-data
   uswds-jekyll (~> 5.3, >= 5.3.0)
-  webrick (~> 1.7)
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.1.4
