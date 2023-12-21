@@ -1,3 +1,5 @@
+**⚠️ This guide has moved to the [consolidated 18F guides repository](https://github.com/18F/guides).**
+
 # TTS Agile Guild
 
 The Technology Transformation Service (TTS) Agile Guild is a community that fosters agile methodologies within government. For more on the guild, please see our [documentation](https://github.com/18F/agile/blob/18f-pages/guild/).
